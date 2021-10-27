@@ -1,0 +1,40 @@
+div.header{
+
+  width: 100%;
+  padding:60px;
+  text-align: center;
+  background: #33cccc;
+  color: white;
+
+
+ }   
+h2{
+    color: crimson;
+    padding: 50px;
+}
+.submit-button{
+    color: gold;
+    border: none;
+}
+th {
+    cursor: pointer;
+}
+#searchCondition, #searchHouse{
+
+   width: 100%;
+  padding:60px;
+  text-align: center;
+  background: #33cccc;
+  color: rgb(0, 0, 255)blue;
+
+
+}
+.my-custom-scrollbar {
+position: relative;
+height: 200px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+
